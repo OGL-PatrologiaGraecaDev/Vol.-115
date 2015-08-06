@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/115/pst.000005714285/815.png"; bbox 0 0 4198 6312; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1900 349 2969 419">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1900 349 2969 419">
+     <span class='ocr_line' id='line_1_1' title="bbox 1900 349 2969 419; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1900 349 2310 418; x_wconf 90' lang='lat' dir='ltr'><strong>BR60.M5</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2388 350 2610 419; x_wconf 91' lang='lat'>1857</span> <span class='ocrx_word' id='word_1_3' title='bbox 2684 350 2969 419; x_wconf 86' lang='lat' dir='ltr'><strong>t.115</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 682 360 3845 610">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 682 360 3845 610">
+     <span class='ocr_line' id='line_1_2' title="bbox 682 360 3845 610; baseline -0.011 0"><span class='ocrx_word' id='word_1_4' title='bbox 682 388 1421 610; x_wconf 83' lang='lat'><strong>\\|\|\|\|\|\|\\\\\||\|||\\||\\</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2102 550 3794 665">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2102 550 3794 665">
+     <span class='ocr_line' id='line_1_3' title="bbox 2102 550 3794 665; baseline 0 -45"><span class='ocrx_word' id='word_1_5' title='bbox 2102 550 2739 665; x_wconf 42' lang='lat' dir='ltr'><strong>.Patrologia</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2802 569 3154 621; x_wconf 87' lang='lat' dir='ltr'><strong>cursus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3224 552 3794 635; x_wconf 87' lang='lat' dir='ltr'><strong>completus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 687 658 2659 786">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 687 658 2659 786">
+     <span class='ocr_line' id='line_1_4' title="bbox 687 658 2659 786; baseline -0.035 1"><span class='ocrx_word' id='word_1_8' title='bbox 687 682 1442 786; x_wconf 63' lang='lat' dir='ltr'><strong>ADUDUUS?1HEBS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1904 658 2252 721; x_wconf 77' lang='lat' dir='ltr'>series</span> <span class='ocrx_word' id='word_1_10' title='bbox 2322 670 2659 736; x_wconf 64' lang='lat' dir='ltr'><strong>greca.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3535 952 3915 1021">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3535 952 3915 1021">
+     <span class='ocr_line' id='line_1_5' title="bbox 3535 952 3915 1021; baseline 0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 3535 952 3915 1021; x_wconf 86' lang='lat'><strong>5714285</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
